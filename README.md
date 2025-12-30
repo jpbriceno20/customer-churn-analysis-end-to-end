@@ -82,19 +82,6 @@ Detailed documentation is available in the `/documentation` folder.
 
 ---
 
-
-## Repository Structure
-customer-churn-analysis-end-to-end/
-├── dashboard/ # Power BI dashboard
-├── screenshots/ # Dashboard screenshots
-├── sql/ # Data exploration and preparation scripts
-├── ml/ # ML model and prediction output
-├── documentation/ # Context, methodology, insights, limitations
-├── data/ # Raw data and data notes
-└── README.md
-
----
-
 ## Quick Links
 - 📊 **Dashboard (PBIX)** — `dashboard/Customer_Churn_Analysis.pbix`
 - 🧠 **Methodology** — `documentation/Methodology.md`
